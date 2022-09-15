@@ -1,4 +1,5 @@
 # Hi! I'm Jeff! 👋🏻
+I´m experienced in web Development and Digital Marketing, adept in all stages of web development. Knowledgeable in UI, UX, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 
 ## 👨🏻‍💻 My stack technologies
